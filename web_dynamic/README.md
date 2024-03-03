@@ -1,6 +1,9 @@
 # AirBnB clone - Web Dynamic
 This directory contains all files necessary to start a dynamic Flask web application.
+
 ## File Structure
+- [0-hbnb.py](0-hbnb.py) - Script that starts our Flask web application.
+- [3-hbnb.py](3-hbnb.py) - Created new template based on previous one and updated for new features
 - [100-hbnb.py](100-hbnb.py) - last iteration of dynamic Flask web application.
 - **[templates](templates)** directory contains all the html/jinja templates for the dynamic Flask web application.
   - [100-hbnb.html](100-hbnb.html) - last iteration of html/jinja template for the dynamic Flask web application.

@@ -1,8 +1,6 @@
 #!/usr/bin/python3
 """
-Flask app to generate a complete HTML page
-containing location/amenity dropdown menus and rental listings.
-
+Flask App that integrates with AirBnB static HTML Template
 
 """
 
